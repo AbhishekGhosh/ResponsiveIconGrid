@@ -2,7 +2,7 @@ Responsive Icon Grid
 =========
 A responsive grid of anchors with icons and text. 
 
-[See a Demo](https://github.com/AbhishekGhosh/ResponsiveIconGrid/edit/master/index.html)
+[See a Demo](https://rawgithub.com/AbhishekGhosh/ResponsiveIconGrid/master/index.html)
 
 Original Source and Licence :
 
